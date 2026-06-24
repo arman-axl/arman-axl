@@ -2,21 +2,11 @@
 
 ###
 
-<p data-importer="text" align="left">Currently studying in AIUB<br>https://www.aiub.edu/</p>
+<img data-importer="image" align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NubXZiZW1idTd0N3ViZDU2Mmtwa3h5cjNwaWt2MmtkNDI1a3JtcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oS5fDVGDnr68rTVQLV/giphy.gif"  />
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pnc2FlcnNyMDZodW41NHBnbncwYTgwdjc0eTE1MW95aG1mbGIwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
-</div>
-
-###
-
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<p data-importer="text" align="left">- 🎓 Currently learning — always a student first<br>- 💻 Into development<br>- 🌍 Languages: English & German<br>- 🐸 Excited to keep growing, one small step at a time<br>- 🤝 Always open to learning from others and working together</p>
+<p data-importer="text" align="left">- average  student<br>- 💻 Into development<br>- 🌍 Languages: Bangla, English, Hindi, Urdu, German<br>- 🐸 Excited to keep growing, one small step at a time<br>- 🤝 Always open to learning from others and working together<br><br>Currently studying in AIUB<br>https://www.aiub.edu/</p>
 
 ###
 
@@ -24,7 +14,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -74,13 +64,6 @@
   <a href="https://discord.com/arman_axl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
