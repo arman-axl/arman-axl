@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Arman AXL</h1>
+<h1 data-importer="text" align="center">AXL</h1>
 
 ###
 
