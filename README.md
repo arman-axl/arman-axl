@@ -6,7 +6,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">- average  student<br>- 💻 Into development<br>- 🌍 Languages: Bangla, English, Hindi, Urdu, German<br>- 🐸 Excited to keep growing, one small step at a time<br>- 🤝 Always open to learning from others and working together<br><br>Currently studying in AIUB<br>https://www.aiub.edu/</h4>
+<h4 data-importer="text" align="left">- average  student<br>- 💻 Into development<br>- 🌍 Languages: Bangla, English, Hindi, Urdu, German<br>- 🐸 Excited to keep growing, one small step at a time<br>- 🤝 Always open to learning from others and working together<br><br>Currently studying at AIUB<br>https://www.aiub.edu/</h4>
 
 ###
 
